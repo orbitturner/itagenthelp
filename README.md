@@ -23,5 +23,6 @@ Le projet comporte 4 modules principales qui sont :
 - List Agent
 - MISC
 ______________________________________________________
-**__Orbit Turner__**
-![Image of IAH](https://raw.githubusercontent.com/orbitturner/itagenthelp/master/orbitturner.ico)
+Developed by Mohamed GUEYE (OrbitTurner).
+
+![Image of OT](https://github.com/orbitturner/challenger/blob/master/images/orbitturner1.png)
