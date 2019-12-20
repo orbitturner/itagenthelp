@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+main(){
+  int i=0;
+  FILE *fich;
+
+
+  fich = fopen("binaryIdData.orbit","wb");
+  if(fich != NULL){
+	fprintf(fich,"[%d]",i);
+  }else{
+    puts("A MISTAKE WAS MADE IN THE CODE");
+  }
+  fclose(fich);
+}
